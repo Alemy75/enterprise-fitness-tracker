@@ -1,0 +1,10 @@
+dist
+.output
+.tanstack
+coverage
+pnpm-lock.yaml
+routeTree.gen.ts
+apps/api/drizzle
+BACKLOG.md
+test-results
+playwright-report

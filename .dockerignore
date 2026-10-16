@@ -1,0 +1,10 @@
+**/node_modules
+**/dist
+**/.output
+**/.tanstack
+**/.turbo
+**/test-results
+**/playwright-report
+.git
+.env
+.env.*
